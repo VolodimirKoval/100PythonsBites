@@ -1,3 +1,16 @@
+"""
+1. Write a function that accepts a list of names and title cases them and removes duplicates.
+
+2. Next, sort the list in alphabetical descending order by surname.
+
+3. Finally, find the shortest first name.
+
+You can assume that the names in the list are single strings composed of two words: one given name and one surname.
+
+Python built-ins will be very useful for solving these problems in very concise ways. Get it sorted!
+"""
+
+
 NAMES = ['arnold schwarzenegger', 'alec baldwin', 'bob belderbos',
          'julian sequeira', 'sandra bullock', 'keanu reeves',
          'julbob pybites', 'bob belderbos', 'julian sequeira',
